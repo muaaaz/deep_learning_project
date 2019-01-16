@@ -1,0 +1,8 @@
+classes= 25
+train  = train.txt
+valid  = test.txt
+#valid = data/coco_val_5k.list
+names = cfg/board.names
+backup = backup/
+#eval=coco
+
